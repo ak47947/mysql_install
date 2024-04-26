@@ -205,4 +205,4 @@ interactive-timeout
 open-files-limit = 65535
 #flush_caches = 1
 #numa_interleave = 1
-malloc-lib = /usr/lib64/libjemalloc.so
+#malloc-lib = /usr/lib64/libjemalloc.so
